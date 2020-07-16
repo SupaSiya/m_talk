@@ -36,7 +36,11 @@ MTalks uses an internal interactive web-based work platform which enables us to
 break projects up into smaller tasks and link them up with the necessary content or
 study for the skill required to complete the task. Through the platform, we are able to
 enroll and onboard youth from various rural communities and leverage them as
-service providers to surrounding businesses. Through this, we are able to set up virtual hubs where each hub member creates a profile that allows them to build a track record as they take on more tasks, linked to key performance indicators. The platform will also be used for data collation, tracking of project tasks, and reporting. This platform is a training platform that is used to manage the entire lifecycle of a project, despite COVID-19 setbacks. The platform ensures high-quality training and validation for quality service delivery to clients.
+service providers to surrounding businesses. Through this, we are able to set up virtual hubs where 
+each hub member creates a profile that allows them to build a track record as they take on more tasks, 
+linked to key performance indicators. The platform will also be used for data collation, tracking of project tasks, and reporting. 
+This platform is a training platform that is used to manage the entire lifecycle of a project, despite COVID-19 setbacks. 
+The platform ensures high-quality training and validation for quality service delivery to clients.
 
 Our hubs members are skilled young people who are from these communities and are able to distribute and manage products and services to members within these communities as trusted persons of those communities, giving companies access into the untapped markets of rural and township communities, and a wide scale of BBBEE scoring.
 [10:59, 7/15/2020] Marvelous: a quick cut an paste from some of our content, let me know if you have any questions
