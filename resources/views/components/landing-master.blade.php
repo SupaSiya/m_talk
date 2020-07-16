@@ -41,13 +41,13 @@
         <header id="header" class="fixed-top">
             <div class="container d-flex align-items-center">
 
-                <a href="/home" class="logo mr-auto"><img src="{{ asset('images/mtalk.png') }}" alt="" class="img-fluid"></a>
+                <a href="/" class="logo mr-auto"><img src="{{ asset('images/mtalk.png') }}" alt="" class="img-fluid"></a>
                 <!-- Uncomment below if you prefer to use text as a logo -->
                 <!-- <h1 class="logo mr-auto"><a href="index.html">Butterfly</a></h1> -->
 
                 <nav class="nav-menu d-none d-lg-block">
                     <ul>
-                        <li class="active"><a href="#home">Home</a></li>
+                        <li class="active"><a href="/">Home</a></li>
                         <li><a href="#about">About</a></li>
                         <li><a href="#how_it_works">How it works</a></li>
                         <li><a href="#benefits">BBBEE befenits </a></li>
@@ -79,7 +79,7 @@
         <section id="hero" class="d-flex align-items-center">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" style="background-color: yellow">
+                    <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
                         <h1>Headline</h1>
                         <h2>
                             Catch phrase of from 1 line to a few sentences long.
@@ -90,8 +90,8 @@
                             </a>
                         </div>
                     </div><!-- End Column -->
-                    <div class="col-lg-6 order-1 order-lg-2 hero-img" style="background-color: pink">
-                        <img src="template/img/hero-img.png" class="img-fluid" alt="">
+                    <div class="col-lg-6 order-1 order-lg-2 hero-img">
+                        <img src="images/management.svg" class="img-fluid" alt="">
                     </div><!-- End Column -->
                 </div><!-- End Row -->
             </div><!-- End Container -->
@@ -104,19 +104,19 @@
         <!-- ======= Footer ======= -->
         <footer id="footer">
 
-            <div class="footer-newsletter">
-            <div class="container">
-                <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <h4>Join Our Newsletter</h4>
-                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-                    <form action="" method="post">
-                    <input type="email" name="email"><input type="submit" value="Subscribe">
-                    </form>
+            {{-- <div class="footer-newsletter">
+                <div class="container">
+                    <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <h4>Join Our Newsletter</h4>
+                        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                        <form action="" method="post">
+                        <input type="email" name="email"><input type="submit" value="Subscribe">
+                        </form>
+                    </div>
+                    </div>
                 </div>
-                </div>
-            </div>
-            </div>
+            </div> --}}
 
             <div class="footer-top">
             <div class="container">
@@ -133,7 +133,7 @@
                     </p>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
+                {{-- <div class="col-lg-3 col-md-6 footer-links">
                     <h4>Useful Links</h4>
                     <ul>
                     <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
@@ -142,9 +142,9 @@
                     <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
                     <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
                     </ul>
-                </div>
+                </div> --}}
 
-                <div class="col-lg-3 col-md-6 footer-links">
+                {{-- <div class="col-lg-3 col-md-6 footer-links">
                     <h4>Our Services</h4>
                     <ul>
                     <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
@@ -153,7 +153,7 @@
                     <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
                     <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
                     </ul>
-                </div>
+                </div> --}}
 
                 <div class="col-lg-3 col-md-6 footer-links">
                     <h4>Our Social Networks</h4>

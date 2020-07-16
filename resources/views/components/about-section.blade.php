@@ -12,11 +12,10 @@
                 </h3>
 
                 <p>
-                    We provides a project-based learning approach that uses technology services in
-                    order to create employment for youth, while building digital skills. Our project
-                    handling is done by minimizing projects into smaller scales of work or tasks in order to
-                    redistribute to youth, this is accompanied by the training required in order complete
-                    the task, where in turn, the youth get to make money on work completed.
+                    MTalks provides hands-on digital and data services to companies and organisations
+                    which enriches their service offering and enables them to effectively manage large
+                    datasets. In doing so, MTalks is able to provide dignified, steady, fair-wage work to
+                    unemployed and previously disadvantaged youth..
                 </p>
 
                 <div class="icon-box">
