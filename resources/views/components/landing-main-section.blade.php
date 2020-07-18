@@ -1,367 +1,368 @@
 <main id="main">
-
     <!-- ======= About Section ======= -->
-    <x-about-section>
-    </x-about-section>
+        <x-about-section>
+        </x-about-section>
     <!-- End About Section -->
 
     <!-- ======= Services Section ======= -->
-    <section id="how_it_works" class="services section-bg">
-        <div class="container">
-            <div class="section-title">
-                <h2>How It Works</h2>
-                <p>
-                    MTalks provides a project-based learning approach that uses technology services in
-                    order to create employment for youth, while building digital skills. Our project
-                    handling is done by minimizing projects into smaller scales of work or tasks in order to
-                    redistribute to youth, this is accompanied by the training required in order complete
-                    the task, where in turn, the youth get to make money on work completed.
+        <section id="how_it_works" class="services section-bg">
+            <div class="container">
+                <div class="section-title">
+                    <h2>How It Works</h2>
+                    <p>
+                        MTalks provides a project-based learning approach that uses technology services in
+                        order to create employment for youth, while building digital skills. Our project
+                        handling is done by minimizing projects into smaller scales of work or tasks in order to
+                        redistribute to youth, this is accompanied by the training required in order complete
+                        the task, where in turn, the youth get to make money on work completed.
 
-                </p>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-5 col-md-6">
-                    <div class="icon-box">
-                    <div class="icon"><i class="bx bx-laptop" style="color: #00c2cb;"></i></div>
-                    <h4 class="title"><a href="">Simplifying Work</a></h4>
-                    <p class="description">
-                        MTalks uses an internal interactive web-based work platform which enables us to
-                        break projects up into smaller tasks and link them up with the necessary content or
-                        study for the skill required to complete the task.
                     </p>
-                    </div>
                 </div>
 
-                <div class="col-lg-7 col-md-6">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-group" style="color: #008037;"></i></div>
-                        <h4 class="title"><a href="">Assign The Best Team</a></h4>
+                <div class="row">
+                    <div class="col-lg-5 col-md-6">
+                        <div class="icon-box">
+                        <div class="icon"><i class="bx bx-laptop" style="color: #00c2cb;"></i></div>
+                        <h4 class="title"><a href="">Simplifying Work</a></h4>
                         <p class="description">
-                            Through the platform, we are able to enroll and onboard youth from various rural communities and leverage them as
-                            service providers to surrounding businesses. Through this, we are able to set up virtual hubs where 
-                            each hub member creates a profile that allows them to build a track record as they take on more tasks, 
-                            linked to key performance indicators. 
+                            MTalks uses an internal interactive web-based work platform which enables us to
+                            break projects up into smaller tasks and link them up with the necessary content or
+                            study for the skill required to complete the task.
                         </p>
+                        </div>
                     </div>
-                </div>
 
-                <div class="col-lg-5 col-md-6" data-wow-delay="0.1s">
-                    <div class="icon-box">
-                        <div class="icon"><i class="las la-tachometer-alt" style="color: #8d2a68;"></i></div>
-                        <h4 class="title" style="color: #00c2cb"><a href="">State Of the Art Tools</a></h4>
-                        <p class="description">
-                            The training  platform will also be used for data collation, tracking of tasks, and reporting. 
-                            It is also used to manage the entire lifecycle of a project, despite COVID-19 setbacks. 
-                            This ensures high-quality training and validation for quality service delivery to clients.
-                        </p>
+                    <div class="col-lg-7 col-md-6">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bx-group" style="color: #008037;"></i></div>
+                            <h4 class="title"><a href="">Assign The Best Team</a></h4>
+                            <p class="description">
+                                Through the platform, we are able to enroll and onboard youth from various rural communities and leverage them as
+                                service providers to surrounding businesses. Through this, we are able to set up virtual hubs where 
+                                each hub member creates a profile that allows them to build a track record as they take on more tasks, 
+                                linked to key performance indicators. 
+                            </p>
+                        </div>
                     </div>
-                </div>
 
-                <div class="col-lg-7 col-md-6" data-wow-delay="0.1s">
-                    <div class="icon-box">
-                        <div class="icon"><i class=" bx bx-happy-beaming" style="color:#ff914d;"></i></div>
-                        <h4 class="title"><a href="">BBBEE & Community Building</a></h4>
-                        <p class="description">
-                            Our hubs members are skilled young people who are from these communities and are able to distribute and manage products and services 
-                            to members within these communities as trusted persons of those communities, giving companies access into the untapped markets
-                            of rural and township communities, and a wide scale of BBBEE scoring.
-                        </p>
+                    <div class="col-lg-5 col-md-6" data-wow-delay="0.1s">
+                        <div class="icon-box">
+                            <div class="icon"><i class="las la-tachometer-alt" style="color: #8d2a68;"></i></div>
+                            <h4 class="title" style="color: #00c2cb"><a href="">State Of the Art Tools</a></h4>
+                            <p class="description">
+                                The training  platform will also be used for data collation, tracking of tasks, and reporting. 
+                                It is also used to manage the entire lifecycle of a project, despite COVID-19 setbacks. 
+                                This ensures high-quality training and validation for quality service delivery to clients.
+                            </p>
+                        </div>
                     </div>
-                </div>
- 
-                {{--<div class="col-lg-6 col-md-6" data-wow-delay="0.2s">
-                    <div class="icon-box">
-                    <div class="icon"><i class="las la-globe-americas" style="color: #d6ff22;"></i></div>
-                    <h4 class="title"><a href="">Nemo Enim</a></h4>
-                    <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-                    </div>
-                </div>
 
-                <div class="col-lg-6 col-md-6" data-wow-delay="0.2s">
-                    <div class="icon-box">
-                    <div class="icon"><i class="las la-clock" style="color: #4680ff;"></i></div>
-                    <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-                    <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                    <div class="col-lg-7 col-md-6" data-wow-delay="0.1s">
+                        <div class="icon-box">
+                            <div class="icon"><i class=" bx bx-happy-beaming" style="color:#ff914d;"></i></div>
+                            <h4 class="title"><a href="">BBBEE & Community Building</a></h4>
+                            <p class="description">
+                                Our hubs members are skilled young people who are from these communities and are able to distribute and manage products and services 
+                                to members within these communities as trusted persons of those communities, giving companies access into the untapped markets
+                                of rural and township communities, and a wide scale of BBBEE scoring.
+                            </p>
+                        </div>
                     </div>
-                </div>--}}
-            </div> 
+    
+                    {{--<div class="col-lg-6 col-md-6" data-wow-delay="0.2s">
+                        <div class="icon-box">
+                        <div class="icon"><i class="las la-globe-americas" style="color: #d6ff22;"></i></div>
+                        <h4 class="title"><a href="">Nemo Enim</a></h4>
+                        <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                        </div>
+                    </div>
 
-        </div>
-    </section>
+                    <div class="col-lg-6 col-md-6" data-wow-delay="0.2s">
+                        <div class="icon-box">
+                        <div class="icon"><i class="las la-clock" style="color: #4680ff;"></i></div>
+                        <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
+                        <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                        </div>
+                    </div>--}}
+                </div> 
+
+            </div>
+        </section>
     <!-- End Services Section -->
 
     <!-- ======= BBBEE Section ======= -->
-    <section id="benefits" class="portfolio">
-        <div class="container">
+        <section id="benefits" class="portfolio">
+            <div class="container">
 
-            <div class="section-title">
-                <h2>BBBEE Benefits</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <div class="section-title">
+                    <h2>BBBEE Benefits</h2>
+                    <p>
+                        I dont know how you want this displayed, doesnt seem like enough or clear enough info in the text you sent.
+                    </p>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-12 d-flex justify-content-center">
+                        <ul id="portfolio-flters">
+                        <li data-filter="*" class="filter-active">All</li>
+                        <li data-filter=".filter-app">App</li>
+                        <li data-filter=".filter-card">Card</li>
+                        <li data-filter=".filter-web">Web</li>
+                        </ul>
+                    </div>
+                </div>
+
+                {{-- <div class="row portfolio-container">
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>App 1</h4>
+                            <p>App</p>
+                            <div class="portfolio-links">
+                            <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Web 3</h4>
+                            <p>Web</p>
+                            <div class="portfolio-links">
+                            <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>App 2</h4>
+                            <p>App</p>
+                            <div class="portfolio-links">
+                            <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Card 2</h4>
+                            <p>Card</p>
+                            <div class="portfolio-links">
+                            <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Web 2</h4>
+                            <p>Web</p>
+                            <div class="portfolio-links">
+                            <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>App 3</h4>
+                            <p>App</p>
+                            <div class="portfolio-links">
+                            <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Card 1</h4>
+                            <p>Card</p>
+                            <div class="portfolio-links">
+                            <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Card 3</h4>
+                            <p>Card</p>
+                            <div class="portfolio-links">
+                            <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Web 3</h4>
+                            <p>Web</p>
+                            <div class="portfolio-links">
+                            <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                </div> --}}
+
             </div>
-
-            <div class="row">
-                <div class="col-lg-12 d-flex justify-content-center">
-                    <ul id="portfolio-flters">
-                    <li data-filter="*" class="filter-active">All</li>
-                    <li data-filter=".filter-app">App</li>
-                    <li data-filter=".filter-card">Card</li>
-                    <li data-filter=".filter-web">Web</li>
-                    </ul>
-                </div>
-            </div>
-
-            {{-- <div class="row portfolio-container">
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>App 1</h4>
-                        <p>App</p>
-                        <div class="portfolio-links">
-                        <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>Web 3</h4>
-                        <p>Web</p>
-                        <div class="portfolio-links">
-                        <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>App 2</h4>
-                        <p>App</p>
-                        <div class="portfolio-links">
-                        <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>Card 2</h4>
-                        <p>Card</p>
-                        <div class="portfolio-links">
-                        <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>Web 2</h4>
-                        <p>Web</p>
-                        <div class="portfolio-links">
-                        <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>App 3</h4>
-                        <p>App</p>
-                        <div class="portfolio-links">
-                        <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>Card 1</h4>
-                        <p>Card</p>
-                        <div class="portfolio-links">
-                        <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>Card 3</h4>
-                        <p>Card</p>
-                        <div class="portfolio-links">
-                        <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>Web 3</h4>
-                        <p>Web</p>
-                        <div class="portfolio-links">
-                        <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
-            </div> --}}
-
-        </div>
-    </section>
+        </section>
     <!-- End Portfolio Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-        <div class="container">
+        <section id="contact" class="contact">
+            <div class="container">
 
-            <div class="section-title">
-                <h2>Contact</h2>
-                <p>
-                    Magnam dolores commodi suscipit. 
-                    Necessitatibus eius consequatur ex aliquid fuga eum quidem. 
-                    Sit sint consectetur velit. Quisquam quos quisquam cupiditate. 
-                    Et nemo qui impedit suscipit alias ea. 
-                    Quia fugiat sit in iste officiis commodi quidem hic quas.
-                </p>
-            </div>
+                <div class="section-title">
+                    <h2>Contact</h2>
+                    {{-- <p>
+                        Do you have something you would like to say to us? .
+                    </p> --}}
+                </div>
 
-            <div>
-                <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
-            </div>
+                <div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3304.944381231455!2d18.84604!3d-34.07094!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcdb5719e885447%3A0xfd21f97f5eaf1c35!2s18%20Smuts%20Ave%2C%20Briza%20Twp%2C%20Cape%20Town%2C%207130!5e0!3m2!1sen!2sza!4v1595060692677!5m2!1sen!2sza" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                </div>
 
-            <div class="row mt-5">
+                <div class="row mt-5">
 
-                <div class="col-lg-4">
-                    <div class="info">
-                    <div class="address">
-                        <i class="icofont-google-map"></i>
-                        <h4>Location:</h4>
-                        <p>18 Smuts Ave, Somerset West, 7130</p>
+                    <div class="col-lg-4">
+                        <div class="info">
+                        <div class="address">
+                            <i class="icofont-google-map"></i>
+                            <h4>Location:</h4>
+                            <p>18 Smuts Ave, Somerset West, 7130</p>
+                        </div>
+
+                        <div class="email">
+                            <i class="icofont-envelope"></i>
+                            <h4>Email:</h4>
+                            <p>mtalks@zohomail.com</p>
+                        </div>
+
+                        <div class="phone">
+                            <i class="icofont-phone"></i>
+                            <h4>Call:</h4>
+                            <p>+27 71 230 8008</p>
+                        </div>
+
+                        </div>
+
                     </div>
 
-                    <div class="email">
-                        <i class="icofont-envelope"></i>
-                        <h4>Email:</h4>
-                        <p>mtalks@zohomail.com</p>
-                    </div>
+                    <div class="col-lg-8 mt-5 mt-lg-0">
+                        <p>
+                            Do you have something you would like to say to us? 
+                        </p>
 
-                    <div class="phone">
-                        <i class="icofont-phone"></i>
-                        <h4>Call:</h4>
-                        <p>+27 71 230 8008</p>
-                    </div>
+                        <hr class="my-4" style="color: #8d2a68">
 
+                        <form action="{{ route('contact-us') }}" method="post" role="form">
+                            @csrf
+                            <div class="form-row">
+                                
+                                <div class="col-md-6 form-group">
+                                    <input id="name" type="text" class="form-control @error('name') is-invalid @enderror" name="name" value="{{ old('name') }}" placeholder="Full Name" required autocomplete="name" autofocus>
+
+                                    @error('name')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $message }}</strong>
+                                        </span>
+                                    @enderror
+                                </div>
+
+                                <div class="col-md-6 form-group">
+                                    <input id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" placeholder="E-mail" required autocomplete="email">
+
+                                    @error('email')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $message }}</strong>
+                                        </span>
+                                    @enderror
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <input id="subject" type="text" class="form-control @error('subject') is-invalid @enderror" name="subject" value="{{ old('subject') }}" placeholder="Subject" required autocomplete="subject">
+
+                                    @error('subject')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $message }}</strong>
+                                        </span>
+                                    @enderror
+                            </div>
+
+                            <div class="form-group">
+                                <textarea id="message" class="form-control @error('message') is-invalid @enderror" name="message" placeholder="type message here..." required autocomplete="message">{{ old('message') }}</textarea>
+
+                                    @error('message')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $message }}</strong>
+                                        </span>
+                                    @enderror
+                            </div>
+
+                            {{--<div class="mb-3">
+                                <div class="loading">Loading</div>
+                                <div class="error-message"></div> 
+                                <div class="sent-message">Your message has been sent. Thank you!</div>
+                            </div>--}}
+
+                            <div class="text-center">
+                                <button type="submit" class="btn btn-success">
+                                    {{ __('Send Message') }}
+                                </button>
+                            </div>
+                        </form>
+                        <div class="feedback">
+                            @if(Session::has('message'))
+                                <p class="alert alert-success">{{ Session::get('message') }}</p>
+                            @endif
+                        </div>
                     </div>
 
                 </div>
 
-                <div class="col-lg-8 mt-5 mt-lg-0">
-
-                    <form action="{{ route('contact-us') }}" method="post" role="form">
-                        @csrf
-                        <div class="form-row">
-                            
-                            <div class="col-md-6 form-group">
-                                <input id="name" type="text" class="form-control @error('name') is-invalid @enderror" name="name" value="{{ old('name') }}" placeholder="Full Name" required autocomplete="name" autofocus>
-
-                                @error('name')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                @enderror
-                            </div>
-
-                            <div class="col-md-6 form-group">
-                                <input id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" placeholder="E-mail" required autocomplete="email">
-
-                                @error('email')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                @enderror
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <input id="subject" type="text" class="form-control @error('subject') is-invalid @enderror" name="subject" value="{{ old('subject') }}" placeholder="Subject" required autocomplete="subject">
-
-                                @error('subject')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                @enderror
-                        </div>
-
-                        <div class="form-group">
-                            <textarea id="message" class="form-control @error('message') is-invalid @enderror" name="message" value="{{ old('message') }}" placeholder="type message here..." required autocomplete="message"></textarea>
-
-                                @error('message')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                @enderror
-                        </div>
-
-                        {{--<div class="mb-3">
-                            <div class="loading">Loading</div>
-                             <div class="error-message"></div> 
-                            <div class="sent-message">Your message has been sent. Thank you!</div>
-                        </div>--}}
-
-                        <div class="text-center">
-                            <button type="submit" class="btn btn-primary">
-                                {{ __('Send Message') }}
-                            </button>
-                        </div>
-                    </form>
-                    <div class="feedback">
-                        @if(Session::has('message'))
-                            <p class="alert alert-success">{{ Session::get('message') }}</p>
-                        @endif
-                    </div>
-                </div>
-
             </div>
-
-        </div>
-    </section>
+        </section>
     <!-- End Contact Section -->
-
 
 
     {{-- <div>
@@ -699,6 +700,5 @@
         </section> --}}
         <!-- End Clients Section -->
     {{-- </div> --}}
-
 
 </main><!-- End #main -->

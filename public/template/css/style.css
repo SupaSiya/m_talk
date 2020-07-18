@@ -342,14 +342,17 @@ h1, h2, h3, h4, h5, h6 {
   padding: 8px 28px;
   border-radius: 3px;
   transition: 0.5s;
+  border: 2px solid purple;
   margin-top: 25px;
   color: #fff;
-  background: #49b5e7;
+  background: #ff914d;
   text-transform: uppercase;
 }
 
 #hero .btn-get-started:hover {
-  background: #76c7ed;
+  background: greenyellow;
+  border: 2px solid #ff914d;
+  color: purple;
 }
 
 @media (max-width: 991px) {
@@ -471,6 +474,8 @@ section {
   background: url("../../images/group.svg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
+  border: 1em solid #00c2cb;
+  border-radius: 1%;
 }
 
 @media (min-width: 1200px) {
@@ -1525,6 +1530,13 @@ section {
   float: right;
   font-size: 13px;
   color: #0f394c;
+}
+
+/* Style by Siya */
+.form-contol{
+  border-top: none !important;
+  border-left:none !important;
+  border-right: none !important;
 }
 
 @media (max-width: 575px) {

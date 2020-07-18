@@ -10,7 +10,7 @@
         <meta content="" name="keywords">
 
         <!-- Favicons -->
-        <link href="{{ asset('template/img/favicon.png') }}" rel="icon">
+        <link href="{{ asset('images/mtalk.png') }}" rel="icon">
         <link href="{{ asset('template/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 
         <!-- Google Fonts -->
@@ -41,13 +41,13 @@
         <header id="header" class="fixed-top">
             <div class="container d-flex align-items-center">
 
-                <a href="/" class="logo mr-auto"><img src="{{ asset('images/mtalk.png') }}" alt="" class="img-fluid"></a>
+                <a href="#hero" class="logo mr-auto"><img src="{{ asset('images/mtalk.png') }}" alt="" class="img-fluid"></a>
                 <!-- Uncomment below if you prefer to use text as a logo -->
                 <!-- <h1 class="logo mr-auto"><a href="index.html">Butterfly</a></h1> -->
 
                 <nav class="nav-menu d-none d-lg-block">
                     <ul>
-                        <li class="active"><a href="/">Home</a></li>
+                        <li class="active"><a href="#hero">Home</a></li>
                         <li><a href="#about">About</a></li>
                         <li><a href="#how_it_works">How it works</a></li>
                         <li><a href="#benefits">BBBEE befenits </a></li>
@@ -80,16 +80,17 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                        <h1>Headline</h1>
-                        <h2>
-                            Catch phrase of from 1 line to a few sentences long.
+                        <h1 >MTalks</h1>
+                        <h2 >
+                            Excellence and relevence through simplicity.
                         </h2>
                         <div>
-                            <a href="#about" class="btn-get-started scrollto">
-                                Get Started
+                            <a href="#contact" class="btn-get-started scrollto">
+                                Get In Touch
                             </a>
                         </div>
                     </div><!-- End Column -->
+
                     <div class="col-lg-6 order-1 order-lg-2 hero-img">
                         <img src="images/management.svg" class="img-fluid" alt="">
                     </div><!-- End Column -->
@@ -123,16 +124,16 @@
                 <div class="row">
 
                 <div class="col-lg-3 col-md-6 footer-contact">
-                    <h3>Butterfly</h3>
+                    <h3>MTalks</h3>
                     <p>
-                    A108 Adam Street <br>
-                    New York, NY 535022<br>
-                    United States <br><br>
-                    <strong>Phone:</strong> +1 5589 55488 55<br>
-                    <strong>Email:</strong> info@example.com<br>
+                    18 Smuts Ave <br>
+                    Briza Twp, Cape Town<br>
+                    7130 <br><br>
+                    <strong>Phone:</strong> +27 71 230 8008<br>
+                    <strong>Email:</strong> mtalks@zohomail.com<br>
                     </p>
                 </div>
-
+               
                 {{-- <div class="col-lg-3 col-md-6 footer-links">
                     <h4>Useful Links</h4>
                     <ul>
@@ -157,14 +158,14 @@
 
                 <div class="col-lg-3 col-md-6 footer-links">
                     <h4>Our Social Networks</h4>
-                    <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
-                    <div class="social-links mt-3">
+                    <p>We will soon be on social media, watch this space!</p>
+                    {{-- <div class="social-links mt-3">
                     <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                     <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                     <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                     <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                     <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-                    </div>
+                    </div> --}}
                 </div>
 
                 </div>

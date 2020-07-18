@@ -41,12 +41,12 @@ class ContactsController extends Controller
         $inputs = request()->validate([
             'name' => 'required|min:5|string',
             'email' => 'required|max:50|email',
-            'subject' => 'required|min:10',
+            'subject' => 'required|min:5',
             'message' => 'required|min:10'
         ]);
         
         Contact::create($inputs);
-        Session::flash('message', 'Message sent succesfully.');
+        Session::flash('message', 'Message delivered, we will be in touch.');
 
         return redirect()->back();
     }
