@@ -97,18 +97,21 @@
                 <div class="section-title">
                     <h2>BBBEE Benefits</h2>
                     <p>
-                        I dont know how you want this displayed, doesnt seem like enough or clear enough info in the text you sent.
+                        Are we BBBEE compliant? Ofcourse we are!! have a look below to see how we will help your score in this regard.
                     </p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-12 d-flex justify-content-center">
+                        <img class="img-fluid" src="{{ asset('images/bbbee_clear.png') }}" alt="">
+                        {{-- 
                         <ul id="portfolio-flters">
-                        <li data-filter="*" class="filter-active">All</li>
-                        <li data-filter=".filter-app">App</li>
-                        <li data-filter=".filter-card">Card</li>
-                        <li data-filter=".filter-web">Web</li>
+                            <li data-filter="*" class="filter-active">All</li>
+                            <li data-filter=".filter-app">App</li>
+                            <li data-filter=".filter-card">Card</li>
+                            <li data-filter=".filter-web">Web</li>
                         </ul>
+                         --}}
                     </div>
                 </div>
 
