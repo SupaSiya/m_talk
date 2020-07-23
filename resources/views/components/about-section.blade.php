@@ -12,32 +12,41 @@
 
             <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
                 <h3>
-                    What M Talks does best
+                    What we do
                 </h3>
 
                 <p>
-                    MTalks provides hands-on digital and data services to companies and organisations
-                    which enriches their service offering and enables them to effectively manage large
-                    datasets. In doing so, MTalks is able to provide dignified, steady, fair-wage work to
-                    unemployed and previously disadvantaged youth..
+                    MTalks is a new social impact business which bridges the digital skills gap by training
+                    young people in rural areas and providing them with the platform to offer valuable
+                    services within the commercial market. We provide hands-on digital and data services to companies and organisations
+                    which enriches their service offering and enables them to effectively manage large datasets.
                 </p>
 
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-box"></i></div>
-                    <h4 class="title"><a href="">Simplify complex tasks.</a></h4>
-                    <p class="description">Say something more about minimizing projects into smaller tasks</p>
+                    <h4 class="title"><a href="">Project creation and management for products & services distribution.</a></h4>
+                    <p class="description">
+                        We provide a unique distribution platform within remote communities as projects that allow companies access into
+                        such markets.
+                    </p>
                 </div>
 
                 <div class="icon-box">
                     <div class="icon"><i class="bx bx-alarm"></i></div>
-                    <h4 class="title"><a href="">Project milestones</a></h4>
-                    <p class="description">Say something about completing and delivering projects on time</p>
+                    <h4 class="title"><a href="">Digital & data skills training for projects.</a></h4>
+                    <p class="description">
+                        We provide accredited digital and data training that allow young people to be effective users and distributors of
+                        technology.
+                    </p>
                 </div>
 
                 <div class="icon-box">
                     <div class="icon"><i class="bx bxl-paypal"></i></div>
-                    <h4 class="title"><a href="">Community building</a></h4>
-                    <p class="description">Youth gets trained and given an opportunity to earn their own cash blah blah blah</p>
+                    <h4 class="title"><a href="">Provide sustained technological infrastructure within remote areas.</a></h4>
+                    <p class="description">
+                        Through our digital hubs, we are able to create technology centers that promote and sustain the use of technology
+                        within remote areas
+                    </p>
                 </div>
             </div><!-- End column -->
 

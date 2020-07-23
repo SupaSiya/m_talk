@@ -8,14 +8,12 @@
         <section id="how_it_works" class="services section-bg">
             <div class="container">
                 <div class="section-title">
-                    <h2>How It Works</h2>
+                    <h2>How It Works.</h2>
                     <p>
-                        MTalks provides a project-based learning approach that uses technology services in
-                        order to create employment for youth, while building digital skills. Our project
-                        handling is done by minimizing projects into smaller scales of work or tasks in order to
-                        redistribute to youth, this is accompanied by the training required in order complete
-                        the task, where in turn, the youth get to make money on work completed.
-
+                        We provide a project-based learning approach that uses technology services in order to create employment for youth while building
+                        digital skills. Through our internal interactive web-based work platform, we are able to break projects up into smaller tasks where the
+                        youth get to make money on work completed and also link them up with the necessary content or study required to complete the
+                        task.
                     </p>
                 </div>
 
