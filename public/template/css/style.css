@@ -11,6 +11,7 @@
 body {
   font-family: normal normal normal 15px/1.4em sans-serif;
   color: #444444;
+  background-color: grad;
 }
 
 a {
@@ -411,6 +412,10 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about{
+  background: linear-gradient(to right, white, rgb(247, 222, 247)); 
+  /* background-color: rgb(247, 216, 247); */
+}
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
@@ -471,7 +476,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../../images/group.svg") center center no-repeat;
+  background: url("../../images/videobg.png") center center no-repeat;
   background-size: cover;
   min-height: 500px;
   border: 1em solid #00c2cb;
@@ -508,6 +513,7 @@ section {
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
   border-left: 15px solid #fff;
+
   z-index: 100;
   transition: all 400ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
@@ -529,14 +535,14 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(73, 181, 231, 0.7);
+  border: 5px solid rgba(230, 13, 13, 0.932);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
 }
 
 .about .play-btn:hover::after {
-  border-left: 15px solid #49b5e7;
+  border-left: 15px solid  rgba(230, 13, 13, 0.932);
   transform: scale(20);
 }
 

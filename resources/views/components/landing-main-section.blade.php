@@ -94,9 +94,9 @@
 
                 <div class="section-title">
                     <h2>BBBEE Benefits</h2>
-                    <p>
+                    {{-- <p>
                         Are we BBBEE compliant? Ofcourse we are!! have a look below to see how we will help your score in this regard.
-                    </p>
+                    </p> --}}
                 </div>
 
                 <div class="row">
@@ -293,14 +293,14 @@
                             Do you have something you would like to say to us? 
                         </p>
 
-                        <hr class="my-4" style="color: #8d2a68">
+                        <hr class="my-4" style="color: #8d2a68 !important">
 
                         <form action="{{ route('contact-us') }}" method="post" role="form">
                             @csrf
                             <div class="form-row">
                                 
                                 <div class="col-md-6 form-group">
-                                    <input id="name" type="text" class="form-control @error('name') is-invalid @enderror" name="name" value="{{ old('name') }}" placeholder="Full Name" required autocomplete="name" autofocus>
+                                    <input id="name" type="text" class="form-control @error('name') is-invalid @enderror" name="name" value="{{ old('name') }}" placeholder="Full Name" required autocomplete="name">
 
                                     @error('name')
                                         <span class="invalid-feedback" role="alert">

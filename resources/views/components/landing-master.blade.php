@@ -73,17 +73,17 @@
             </div><!-- End container d-flex -->
         </header><!-- End Header -->
         
-        <div class="container-fluid row" style="top:20%; left: 85%; position: fixed; z-index: 1030;">
-            <img class="responsive" src="{{ asset('images/bbbee2.png') }}" alt="">
+        <div class="d-flex" style="top:20%; left: 85%; position: fixed; z-index: 1030; display:flex;">
+            <a href="#benefits"><img class="responsive" src="{{ asset('images/bbbee2.png') }}" alt=""></a>
         </div>
         <!-- ======= Hero Section ======= -->
-        <section id="hero" class="d-flex align-items-center">
+        <section id="hero" class="d-flex align-items-center ">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
                         <h1 >MTalks</h1>
                         <h2 >
-                            Excellence and relevence through simplicity.
+                            Digitising Rural And Township Communities.
                         </h2>
                         <div>
                             <a href="#contact" class="btn-get-started scrollto">
@@ -93,7 +93,7 @@
                     </div><!-- End Column -->
 
                     <div class="col-lg-6 order-1 order-lg-2 hero-img">
-                        <img src="images/management.svg" class="img-fluid" alt="">
+                        <img width="100%" src="images/hero3.png" class="img-responsive" alt="">
                     </div><!-- End Column -->
                 </div><!-- End Row -->
             </div><!-- End Container -->
@@ -193,7 +193,7 @@
         <script src="{{ asset('template/vendor/jquery/jquery.min.js') }}"></script>
         <script src="{{ asset('template/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
         <script src="{{ asset('template/vendor/jquery.easing/jquery.easing.min.js') }}"></script>
-        <script src="{{ asset('template/vendor/php-email-form/validate.js') }}"></script>
+        {{-- <script src="{{ asset('template/vendor/php-email-form/validate.js') }}"></script> --}}
         <script src="{{ asset('template/vendor/venobox/venobox.min.js') }}"></script>
         <script src="{{ asset('template/vendor/waypoints/jquery.waypoints.min.js') }}"></script>
         <script src="{{ asset('template/vendor/counterup/counterup.min.js') }}"></script>
