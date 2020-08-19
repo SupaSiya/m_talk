@@ -36,11 +36,9 @@
     </head>
 
     <body>
-
         <!-- ======= Header ======= -->
         <header id="header" class="fixed-top">
             <div class="container d-flex align-items-center">
-
                 <a href="#hero" class="logo mr-auto"><img src="{{ asset('images/mtalk.png') }}" alt="" class="img-fluid"></a>
                 <!-- Uncomment below if you prefer to use text as a logo -->
                 <!-- <h1 class="logo mr-auto"><a href="index.html">Butterfly</a></h1> -->
@@ -74,7 +72,10 @@
                 </nav><!-- .nav-menu -->
             </div><!-- End container d-flex -->
         </header><!-- End Header -->
-
+        
+        <div class="container-fluid row" style="top:20%; left: 85%; position: fixed; z-index: 1030;">
+            <img class="responsive" src="{{ asset('images/bbbee2.png') }}" alt="">
+        </div>
         <!-- ======= Hero Section ======= -->
         <section id="hero" class="d-flex align-items-center">
             <div class="container">
@@ -157,8 +158,8 @@
                 </div> --}}
 
                 <div class="col-lg-3 col-md-6 footer-links">
-                    <h4>Our Social Networks</h4>
-                    <p>We will soon be on social media, watch this space!</p>
+                    {{-- <h4>Our Social Networks</h4>
+                    <p>We will soon be on social media, watch this space!</p> --}}
                     {{-- <div class="social-links mt-3">
                     <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                     <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>

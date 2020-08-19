@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif;
+  font-family: normal normal normal 15px/1.4em sans-serif;
   color: #444444;
 }
 
@@ -23,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Dosis", sans-serif;
+  font-family: normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -102,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu > ul > li {
   position: relative;
   white-space: nowrap;
-  padding: 10px 0 10px 28px;
+  padding: 10px 0 10px 80px;
 }
 
 .nav-menu a {
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #0f394c;
   transition: 0.3s;
   font-size: 15px;
-  font-family: "Dosis", sans-serif;
+  font-family: normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -334,7 +334,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Dosis", sans-serif;
+  font-family: normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -616,7 +616,7 @@ section {
   font-weight: 700;
   display: block;
   color: #49b5e7;
-  font-family: "Dosis", sans-serif;
+  font-family: normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif;
 }
 
 .counts .counters p {
@@ -1533,10 +1533,9 @@ section {
 }
 
 /* Style by Siya */
-.form-contol{
-  border-top: none !important;
-  border-left:none !important;
-  border-right: none !important;
+.responsive {
+  width: 10vw; 
+  height: auto;
 }
 
 @media (max-width: 575px) {
